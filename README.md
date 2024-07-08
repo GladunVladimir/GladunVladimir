@@ -11,4 +11,4 @@ My name is Vladimir Gladun and I am glad to see you on my profile!
 
 
 ## Page View Stats
-![Visitor Count](https://profile-counter.glitch.me/{GladunVladimir}/count.svg)
+![](https://komarev.com/ghpvc/?username=GladunVladimir&color=grey)
