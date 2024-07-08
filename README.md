@@ -6,7 +6,7 @@ My name is Vladimir Gladun and I am glad to see you on my profile!
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=gladunVladimir&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GladunVladimir&hide_progress=true)
 
 
 
