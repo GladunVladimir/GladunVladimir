@@ -10,4 +10,4 @@ My name is Vladimir Gladun and I am glad to see you on my profile!
 
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=your-github-GladunVladimir&style=for-the-badge)
