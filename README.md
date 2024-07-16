@@ -2,6 +2,7 @@
 
 My name is Vladimir and I am glad to see you on my profile!
 
+I am currently working as an embedded developer at EPRO.
 
 Not all of my projects are posted here due to trade secrets.
 
