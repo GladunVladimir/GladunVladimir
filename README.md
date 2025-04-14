@@ -8,6 +8,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GladunVladimir&hide_progress=true&theme=dark#gh-dark-mode-only)
 
-
-
-![](https://komarev.com/ghpvc/?username=your-github-GladunVladimir&style=for-the-badge)
